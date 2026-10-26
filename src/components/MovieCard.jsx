@@ -1,11 +1,13 @@
+import RatingBadge from './RatingBadge';
+
 export default function MovieCard({ movie }) {
     return (
-        <div className="movie-card">
+        <article className="movie-card">
             <img src={movie.posterUrl} alt={movie.title} />
-            <h2>{movie.title}</h2>
+            <h3>{movie.title}</h3>
             <p>{movie.year}</p>
             <p>{movie.description}</p>
             <RatingBadge rating={movie.rating} />
-        </div>
+        </article>
     )
 }

@@ -1,6 +1,6 @@
 import MovieList from './components/MovieList';
 import Panel from './components/Panel';
-import movies from './data/movies.js'
+import { movies } from './data/movies.js';
 
 function App() {
   return (
