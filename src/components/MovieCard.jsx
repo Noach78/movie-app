@@ -1,6 +1,6 @@
 import RatingBadge from './RatingBadge';
 
-export default function MovieCard({ movie }) {
+export default function MovieCard({ movie, isLiked, onToggleLike }) {
     return (
         <article className="movie-card">
             <img src={movie.posterUrl} alt={movie.title} />
@@ -8,6 +8,9 @@ export default function MovieCard({ movie }) {
             <p>{movie.year}</p>
             <p>{movie.description}</p>
             <RatingBadge rating={movie.rating} />
+            <button onClick={() => onToggleLike(movie.id)}>
+                {isLiked ? '❤️' : '🩶'}
+            </button>
         </article>
     )
 }
