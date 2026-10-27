@@ -1,0 +1,133 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Inception",
+      "year": 2010,
+      "rating": 8.8,
+      "posterUrl": "/posters/inception.svg",
+      "description": "Un voleur spécialisé dans l'extraction de secrets à travers les rêves reçoit une mission inverse : implanter une idée."
+    },
+    {
+      "id": "2",
+      "title": "Interstellar",
+      "year": 2014,
+      "rating": 8.7,
+      "posterUrl": "/posters/interstellar.svg",
+      "description": "Alors que la Terre se meurt, une équipe d'astronautes traverse un trou de ver à la recherche d'une nouvelle planète habitable."
+    },
+    {
+      "id": "3",
+      "title": "Tenet",
+      "year": 2020,
+      "rating": 7.3,
+      "posterUrl": "/posters/tenet.svg",
+      "description": "Un agent apprend à manipuler l'écoulement du temps pour empêcher une catastrophe venue du futur."
+    },
+    {
+      "id": "4",
+      "title": "Dune",
+      "year": 2021,
+      "rating": 8,
+      "posterUrl": "/posters/dune.svg",
+      "description": "Héritier d'une grande famille, Paul Atréides arrive sur Arrakis, la planète désertique la plus convoitée de l'univers."
+    },
+    {
+      "id": "5",
+      "title": "Dune : Deuxième partie",
+      "year": 2024,
+      "rating": 8.5,
+      "posterUrl": "/posters/dune-2.svg",
+      "description": "Paul s'allie aux Fremen et doit choisir entre l'amour et le destin de l'univers."
+    },
+    {
+      "id": "6",
+      "title": "Oppenheimer",
+      "year": 2023,
+      "rating": 8.3,
+      "posterUrl": "/posters/oppenheimer.svg",
+      "description": "Le portrait du physicien qui a dirigé la mise au point de la première bombe atomique, et de ce qu'il en a coûté."
+    },
+    {
+      "id": "7",
+      "title": "Parasite",
+      "year": 2019,
+      "rating": 8.5,
+      "posterUrl": "/posters/parasite.svg",
+      "description": "Une famille sans emploi s'infiltre peu à peu au service d'une famille aisée, jusqu'à ce que tout dérape."
+    },
+    {
+      "id": "8",
+      "title": "Le Voyage de Chihiro",
+      "year": 2001,
+      "rating": 8.6,
+      "posterUrl": "/posters/chihiro.svg",
+      "description": "Perdue dans un monde peuplé d'esprits, une fillette doit travailler dans des bains publics pour sauver ses parents."
+    },
+    {
+      "id": "9",
+      "title": "Mad Max : Fury Road",
+      "year": 2015,
+      "rating": 8.1,
+      "posterUrl": "/posters/mad-max.svg",
+      "description": "Dans un désert post-apocalyptique, une course-poursuite sans fin pour échapper à un tyran."
+    },
+    {
+      "id": "10",
+      "title": "Spider-Man : New Generation",
+      "year": 2018,
+      "rating": 8.4,
+      "posterUrl": "/posters/spider-verse.svg",
+      "description": "Un adolescent de Brooklyn découvre qu'il n'est pas le seul Spider-Man de l'univers, ni du multivers."
+    },
+    {
+      "id": "11",
+      "title": "Whiplash",
+      "year": 2014,
+      "rating": 8.5,
+      "posterUrl": "/posters/whiplash.svg",
+      "description": "Un jeune batteur de jazz affronte un professeur prêt à tout pour pousser ses élèves au-delà de leurs limites."
+    },
+    {
+      "id": "12",
+      "title": "La La Land",
+      "year": 2016,
+      "rating": 8,
+      "posterUrl": "/posters/la-la-land.svg",
+      "description": "À Los Angeles, une actrice et un pianiste de jazz poursuivent leurs rêves, quitte à mettre leur histoire en danger."
+    },
+    {
+      "id": "13",
+      "title": "Le Fabuleux Destin d'Amélie Poulain",
+      "year": 2001,
+      "rating": 8.3,
+      "posterUrl": "/posters/amelie.svg",
+      "description": "À Montmartre, une serveuse timide décide de réparer, en secret, la vie de ceux qui l'entourent."
+    },
+    {
+      "id": "14",
+      "title": "Everything Everywhere All at Once",
+      "year": 2022,
+      "rating": 7.8,
+      "posterUrl": "/posters/eeaao.svg",
+      "description": "Une gérante de laverie découvre qu'elle peut accéder aux vies de ses autres versions dans des univers parallèles."
+    },
+    {
+      "id": "15",
+      "title": "Seven",
+      "year": 1995,
+      "rating": 8.6,
+      "posterUrl": "/posters/seven.svg",
+      "description": "Deux inspecteurs traquent un tueur qui choisit ses victimes selon les sept péchés capitaux."
+    },
+    {
+      "id": "16",
+      "title": "Coco",
+      "year": 2017,
+      "rating": 8.4,
+      "posterUrl": "/posters/coco.svg",
+      "description": "Un jeune garçon qui rêve de musique se retrouve au pays des morts, sur les traces d'un ancêtre légendaire."
+    }
+  ],
+  "watchlist": []
+}
